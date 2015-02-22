@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ng-cordova</artifactId>
-    <version>0.1.12-alpha</version>
+    <version>0.1.13-alpha-SNAPSHOT</version>
     <name>ngCordova</name>
     <description>WebJar for ngCordova</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/ng-cordova</url>
         <connection>scm:git:https://github.com/webjars/ng-cordova.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ng-cordova.git</developerConnection>
-        <tag>ng-cordova-0.1.12-alpha</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
